@@ -1,0 +1,155 @@
+.portfolio .folio-overlay {
+    background-color: #792b71;;
+}
+.box-back{
+    background-color: #792b71;
+}
+.default-color{
+    color: #792b71 !important;
+}
+.team_element{
+    box-shadow: 0 0 3px rgba(0,0,0,.1);
+    padding: 42px;
+    margin-top: 50px;
+    margin-left: 58px;
+
+}
+.cbp img {
+    margin-left: 13px;
+}
+.default-bg {
+    background-color: #792b71;;
+}
+.btn-color {
+    color: #fff;
+    background-color: #792b71;;
+} 
+.btn-color:hover, .btn-color:active, .btn-color:focus {
+    background-color: black;
+    color: #fff;
+}
+.line2 {
+    width: 157px !important;
+}
+.services{
+    margin-top: -147px;
+}
+.textservices{
+    text-align: justify;
+}
+p a {
+    color: gray;
+}
+p a:hover {
+    color: #040202;
+}
+/* tsnav.navbar-transparent.white, nav.navbar.bootsnav.navbar-transparent.dark {
+    background-color: transparent;
+    height: 96px;
+    box-shadow: none;
+} */
+nav.navbar.bootsnav.navbar-fixed .logo-scrolled {
+    opacity: 1;
+    min-height: 56px;
+    /* margin-left: -319px; */
+}
+
+nav.navbar.bootsnav.navbar-fixed.navbar-transparent .logo-display, nav.navbar.bootsnav.navbar-fixed.no-background .logo-display {
+    opacity: 1;
+    min-height: 68px;
+    margin-top: 10px;
+    /* margin-left: -319px;
+     */
+}
+.serv_bg{
+    background-color: whitesmoke;
+    padding-bottom: 0px;
+    margin-top: -28px;
+}
+.containersevebg
+{
+    margin-top: -53px;
+}
+.career{
+    font-size: 37px;
+    line-height: 1.5em;
+    font-weight: 700;
+}
+.container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse {
+    margin-right: 0;
+    /* margin-left: -301px; */
+}
+/* .about
+{
+   
+    width: 1465px;
+        margin-left: 76px;
+
+} */
+.aboutcol
+{
+   
+        /* width: 732px; */
+        text-align: justify;
+        /* margin-bottom: 0px;
+        padding-bottom: 0px; */
+       
+    
+}
+.testmobile
+{
+    padding-bottom: 0px;
+    padding-top: 3px;
+    /* margin-bottom: -121px; */
+}
+
+.footer .widget-links li {
+    margin-bottom: 2px;
+}
+
+
+.clientslogo {
+    padding-top: 42px;
+    padding-bottom: 30px;
+}
+.who
+{
+    padding-bottom: 31px;
+}
+.test{
+height: 500 !important;
+}
+.rowabout
+{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.containerabout{
+    width: 1421px;
+}
+.portofiliogall
+{
+    margin-left: 243px;
+}
+.portfolio-meta > li {
+    width: 430px;
+}
+
+.client-logo img
+{
+    opacity:1;
+}
+.removegray::before{
+        background-color: rgba(0, 0, 0, 0);
+}
+
+
+
+
+.color-overlay-bg {
+background-color: rgb(196, 50, 102);
+}
+.client-logo-height img {
+    -webkit-filter: grayscale(1); 
+    filter: grayscale(0);
+}
